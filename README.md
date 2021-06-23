@@ -1,0 +1,2 @@
+# ProyCompu
+ Proyecto compu grafica 
