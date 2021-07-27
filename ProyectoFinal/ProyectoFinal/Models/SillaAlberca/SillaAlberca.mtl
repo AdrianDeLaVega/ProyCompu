@@ -1,0 +1,296 @@
+newmtl CoconutPalm_Cap_03
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.72 0.74 0.74
+Tf 1.00 1.00 1.00
+map_Kd Cap_03.tga
+Ni 1.00
+newmtl CoconutPalm_CoconutPalmBark
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.64 0.65 0.65
+Tf 1.00 1.00 1.00
+map_Kd Palmetto_bark_2.png
+Ni 1.00
+newmtl CoconutPalm_CoconutPalmClip
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.72 0.74 0.74
+Tf 1.00 1.00 1.00
+map_Kd CoconutPalmClip.tga
+Ni 1.00
+newmtl CoconutPalm_CoconutPalmLeaflet_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.76 0.77 0.77
+Tf 1.00 1.00 1.00
+map_Kd CoconutPalmLeaflet_1.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks CoconutPalmLeaflet_1_Spec.tga
+Ns 64.00
+newmtl CoconutPalm_CoconutPalmLeaflet_3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.76 0.77 0.77
+Tf 1.00 1.00 1.00
+map_Kd CoconutPalmLeaflet_2.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks CoconutPalmLeaflet_2_Spec.tga
+Ns 64.00
+newmtl CoconutPalm_CoconutPalmLeaflet_5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.76 0.77 0.77
+Tf 1.00 1.00 1.00
+map_Kd CoconutPalmLeaflet_3.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks CoconutPalmLeaflet_3_Spec.tga
+Ns 64.00
+newmtl CoconutPalm_CoconutPalmLeaflet_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.76 0.77 0.77
+Tf 1.00 1.00 1.00
+map_Kd CoconutPalmLeaflet_4.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks CoconutPalmLeaflet_4_Spec.tga
+Ns 64.00
+newmtl CoconutPalm_CoconutSkin
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.72 0.74 0.74
+Tf 1.00 1.00 1.00
+map_Kd CoconutSkin.tga
+Ni 1.00
+newmtl CoconutPalm_FrondStem
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.65 0.66 0.66
+Tf 1.00 1.00 1.00
+map_Kd Stem_3.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Stem_3_Gloss.png
+Ns 51.40
+newmtl Palmera_CoconutPalm_Cap_03
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.72 0.74 0.74
+Tf 1.00 1.00 1.00
+map_Kd Cap_03.tga
+Ni 1.00
+newmtl Palmera_CoconutPalm_CoconutPalmBark
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.64 0.65 0.65
+Tf 1.00 1.00 1.00
+map_Kd Palmetto_bark_2.png
+Ni 1.00
+newmtl Palmera_CoconutPalm_CoconutPalmClip
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.72 0.74 0.74
+Tf 1.00 1.00 1.00
+map_Kd CoconutPalmClip.tga
+Ni 1.00
+newmtl Palmera_CoconutPalm_CoconutPalmLeaflet_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.76 0.77 0.77
+Tf 1.00 1.00 1.00
+map_Kd CoconutPalmLeaflet_1.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks CoconutPalmLeaflet_1_Spec.tga
+Ns 64.00
+newmtl Palmera_CoconutPalm_CoconutPalmLeaflet_3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.76 0.77 0.77
+Tf 1.00 1.00 1.00
+map_Kd CoconutPalmLeaflet_2.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks CoconutPalmLeaflet_2_Spec.tga
+Ns 64.00
+newmtl Palmera_CoconutPalm_CoconutPalmLeaflet_5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.76 0.77 0.77
+Tf 1.00 1.00 1.00
+map_Kd CoconutPalmLeaflet_3.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks CoconutPalmLeaflet_3_Spec.tga
+Ns 64.00
+newmtl Palmera_CoconutPalm_CoconutPalmLeaflet_7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.76 0.77 0.77
+Tf 1.00 1.00 1.00
+map_Kd CoconutPalmLeaflet_4.tga
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks CoconutPalmLeaflet_4_Spec.tga
+Ns 64.00
+newmtl Palmera_CoconutPalm_CoconutSkin
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.72 0.74 0.74
+Tf 1.00 1.00 1.00
+map_Kd CoconutSkin.tga
+Ni 1.00
+newmtl Palmera_CoconutPalm_FrondStem
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.65 0.66 0.66
+Tf 1.00 1.00 1.00
+map_Kd Stem_3.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Stem_3_Gloss.png
+Ns 51.40
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd pasto2.jpg
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PisoMadera.jpg
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PisoNegro.jpg
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco-zeus.jpg
+Ni 1.00
+newmtl lambert7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PisoNegro.jpg
+Ni 1.00
+newmtl lambert9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PisoNegro.jpg
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco-zeus.jpg
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd MaderaCafe.jpg
+Ni 1.00
+newmtl lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco-zeus.jpg
+Ni 1.00
+newmtl lambert14SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd MaderaCafe.jpg
+Ni 1.00
+newmtl lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gris-obscuro.jpg
+Ni 1.00
+newmtl lambert16SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd barda-ladrilloGris.jpg
+Ni 1.00
+newmtl lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd PisoNegro.jpg
+Ni 1.00
+newmtl lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd MaderaCafe.jpg
+Ni 1.00
+newmtl lambert20SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco-zeus.jpg
+Ni 1.00
+newmtl lambert21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd agua.jpg
+Ni 1.00
+newmtl lambert24SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gris-granulado-claro.jpg
+Ni 1.00
+newmtl lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd carreteraGris.jpg
+Ni 1.00
+newmtl lambert26SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cafe_silla_alb.jpg
+Ni 1.00
+newmtl lambert27SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd blanco_silla_alb.jpg
+Ni 1.00
