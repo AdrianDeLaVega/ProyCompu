@@ -1,0 +1,21 @@
+newmtl Mesa_MasetaBlanco_lambert12SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd BlancoMaseta.jpg
+Ni 1.00
+newmtl Mesa_MasetaBlanco_lambert13SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.57 0.57 0.57
+Tf 1.00 1.00 1.00
+map_Kd HP_57_Soil_Diffuse.jpg
+Ni 1.00
+newmtl Mesa_MasetaBlanco_lambert14SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd HP_57_Palm_Leaf_Diffuse.jpg
+Ni 1.00
